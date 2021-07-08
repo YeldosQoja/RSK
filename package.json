@@ -1,3 +1,56 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9aa0d3cdce8a794938a668b8fefba7eebbeeac86bc0f66131f1fd5f666cb736b
-size 1838
+{
+  "name": "rsk",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@native-html/iframe-plugin": "^2.5.0",
+    "@react-native-async-storage/async-storage": "^1.15.5",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/material-top-tabs": "^5.3.15",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.5",
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "react": "16.13.1",
+    "react-native": "0.63.4",
+    "react-native-fast-image": "^8.3.4",
+    "react-native-flatlist-slider": "^1.0.5",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-keyboard-aware-scrollview": "^2.1.0",
+    "react-native-localization": "^2.1.7",
+    "react-native-masked-text": "^1.13.0",
+    "react-native-material-menu": "^1.2.0",
+    "react-native-reanimated": "^2.2.0",
+    "react-native-render-html": "^6.0.0-beta.3",
+    "react-native-restart": "0.0.22",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "^3.4.0",
+    "react-native-share": "^6.2.1",
+    "react-native-simple-radio-button": "^2.7.4",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-svg": "^12.1.1",
+    "react-native-tab-view": "^2.16.0",
+    "react-native-webview": "^11.6.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/runtime": "^7.8.4",
+    "@react-native-community/eslint-config": "^1.1.0",
+    "babel-jest": "^25.1.0",
+    "eslint": "^6.5.1",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react-native-svg-transformer": "^0.14.3",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

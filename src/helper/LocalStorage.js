@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:998f733dfcb2d6f80da192a4662dd5778e9924b9dda56a51d4904989fcd20a0d
-size 446
+import AsyncStorage from "@react-native-async-storage/async-storage";
+
+export const getData = async(key) => {
+    try {
+        return await AsyncStorage.getItem(key)
+    } catch(err) {
+        console.log('Error occured while getting item', err)
+    }
+}
+
+export const setData = async(key, value) => {
+    try {
+        await AsyncStorage.setItem(key, value)
+    } catch(err) {
+        console.log('Error occured while setting item', err)
+    }
+}

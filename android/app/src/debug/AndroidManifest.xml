@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:28d248531d1eb800fcb266809b5d5f649e4d4b5baaf1d3f1ed3a72ac41f00950
-size 368
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+
+    <application android:usesCleartextTraffic="true" tools:targetApi="28" tools:ignore="GoogleAppIndexingWarning" />
+</manifest>

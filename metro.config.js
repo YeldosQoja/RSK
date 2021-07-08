@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57c9871614286ee0734362feddc855d04b3e4b2b5b0ad1fdfebd94c1ef9801d7
-size 534
+/**
+ * Metro configuration for React Native
+ * https://github.com/facebook/react-native
+ *
+ * @format
+ */
+
+ const { getDefaultConfig } = require("metro-config");
+
+ module.exports = (async () => {
+   const {
+     resolver: { sourceExts, assetExts }
+   } = await getDefaultConfig();
+   return {
+     transformer: {
+       babelTransformerPath: require.resolve("react-native-svg-transformer")
+     },
+     resolver: {
+       assetExts: assetExts.filter(ext => ext !== "svg"),
+       sourceExts: [...sourceExts, "svg"]
+     }
+   };
+ })();
