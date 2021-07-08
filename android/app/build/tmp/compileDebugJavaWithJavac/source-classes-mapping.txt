@@ -1,0 +1,14 @@
+com/rsk/MainApplication.java
+ com.rsk.MainApplication
+ com.rsk.MainApplication$1
+com/rsk/MainActivity.java
+ com.rsk.MainActivity
+com/rsk/BuildConfig.java
+ com.rsk.BuildConfig
+com/rsk/ReactNativeFlipper.java
+ com.rsk.ReactNativeFlipper
+ com.rsk.ReactNativeFlipper$1
+ com.rsk.ReactNativeFlipper$2
+ com.rsk.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

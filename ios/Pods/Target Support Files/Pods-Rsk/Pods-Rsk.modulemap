@@ -1,0 +1,6 @@
+module Pods_Rsk {
+  umbrella header "Pods-Rsk-umbrella.h"
+
+  export *
+  module * { export * }
+}

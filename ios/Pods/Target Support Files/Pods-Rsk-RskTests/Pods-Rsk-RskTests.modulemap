@@ -1,0 +1,6 @@
+module Pods_Rsk_RskTests {
+  umbrella header "Pods-Rsk-RskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bumptech.glide:okhttp3-integration:4.11.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2caa58137f1dba2faa62aa9323949be5/transformed/okhttp3-integration-4.11.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a22c0b88884d664aa5f7bd6ba7d2a28/transformed/jetified-okhttp3-integration-4.11.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c216976a87b9837ab7019c4fbdec1a16/jetified-okhttp3-integration-4.11.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c216976a87b9837ab7019c4fbdec1a16/jetified-okhttp3-integration-4.11.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c216976a87b9837ab7019c4fbdec1a16/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/okhttp3-integration/4.11.0/c7e94c4e65dbabaca2e9f98ed20e6bfebfcf455e/okhttp3-integration-4.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/okhttp3-integration/4.11.0/785a6c2e02e265af842ea08ab41aecbcc64bb2c1/okhttp3-integration-4.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

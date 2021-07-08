@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8885bef1-1992-48c8-8368-ec8241e1a80b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1uZDjZBiqkRkzBlUAjej0FAp7FO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8885bef1-1992-48c8-8368-ec8241e1a80b" name="Default Changelist" comment="" />
+      <created>1624864355174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624864355174</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624871332460">
+      <screen x="0" y="25" width="1440" height="802" />
+    </state>
+    <state x="184" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.802@0.25.1440.802" timestamp="1624871332460" />
+    <state x="100" y="125" width="1240" height="582" key="AVDManager" timestamp="1624874104861">
+      <screen x="0" y="25" width="1440" height="802" />
+    </state>
+    <state x="100" y="125" width="1240" height="582" key="AVDManager/0.25.1440.802@0.25.1440.802" timestamp="1624874104861" />
+    <state x="229" y="52" key="SettingsEditor" timestamp="1624874417832">
+      <screen x="0" y="25" width="1440" height="802" />
+    </state>
+    <state x="229" y="52" key="SettingsEditor/0.25.1440.802@0.25.1440.802" timestamp="1624874417832" />
+  </component>
+</project>

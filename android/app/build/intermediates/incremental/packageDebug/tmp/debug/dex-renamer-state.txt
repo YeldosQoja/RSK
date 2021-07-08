@@ -1,0 +1,4 @@
+#Mon Jun 28 17:58:28 ALMT 2021
+base.0=/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/buginsoft/reactnative/Rsk/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

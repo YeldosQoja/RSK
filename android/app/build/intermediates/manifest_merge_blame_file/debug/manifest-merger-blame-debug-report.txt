@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.rsk"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.54.0] /Users/mas/.gradle/caches/transforms-2/files-2.1/21d0e5f8ee7fc77fdb6bbcd4058ff541/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.54.0] /Users/mas/.gradle/caches/transforms-2/files-2.1/21d0e5f8ee7fc77fdb6bbcd4058ff541/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+14
+15    <application
+15-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:6:5-26:19
+16        android:name="com.rsk.MainApplication"
+16-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:7:7-38
+17        android:allowBackup="false"
+17-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:11:7-34
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0] /Users/mas/.gradle/caches/transforms-2/files-2.1/d7288053ae24f3fdac36d9055d988795/core-1.1.0/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:9:7-41
+21        android:label="@string/app_name"
+21-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:8:7-39
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:10:7-52
+23        android:theme="@style/AppTheme"
+23-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:13:7-38
+24        android:usesCleartextTraffic="true" >
+24-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:12:7-42
+25        <activity
+25-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:14:7-24:18
+26            android:name="com.rsk.MainActivity"
+26-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:15:9-37
+27            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+27-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:17:9-86
+28            android:label="@string/app_name"
+28-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:16:9-41
+29            android:launchMode="singleTask"
+29-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:18:9-40
+30            android:windowSoftInputMode="adjustResize" >
+30-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:19:9-51
+31            <intent-filter>
+31-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:20:9-23:25
+32                <action android:name="android.intent.action.MAIN" />
+32-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:21:13-65
+32-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:21:21-62
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:22:13-73
+34-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:22:23-70
+35            </intent-filter>
+36        </activity>
+37        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+37-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:25:7-84
+37-->/Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/android/app/src/main/AndroidManifest.xml:25:17-81
+38
+39        <provider
+39-->[:react-native-share] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+40            android:name="cl.json.RNShareFileProvider"
+40-->[:react-native-share] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-55
+41            android:authorities="com.rsk.rnshare.fileprovider"
+41-->[:react-native-share] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-72
+42            android:exported="false"
+42-->[:react-native-share] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+43            android:grantUriPermissions="true" >
+43-->[:react-native-share] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+44            <meta-data
+44-->[:react-native-share] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:64
+45                android:name="android.support.FILE_PROVIDER_PATHS"
+45-->[:react-native-share] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+46                android:resource="@xml/share_download_paths" />
+46-->[:react-native-share] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-61
+47        </provider>
+48        <provider
+48-->[:react-native-webview] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+49            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+49-->[:react-native-webview] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+50            android:authorities="com.rsk.fileprovider"
+50-->[:react-native-webview] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+51            android:exported="false"
+51-->[:react-native-webview] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+52            android:grantUriPermissions="true" >
+52-->[:react-native-webview] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+53            <meta-data
+53-->[:react-native-share] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:64
+54                android:name="android.support.FILE_PROVIDER_PATHS"
+54-->[:react-native-share] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+55                android:resource="@xml/file_provider_paths" />
+55-->[:react-native-share] /Users/mas/Dropbox/My Mac (MacBook-Air-mas)/Desktop/ALL/buginsoft/reactnative/Rsk/node_modules/react-native-share/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-61
+56        </provider>
+57
+58        <meta-data
+58-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/mas/.gradle/caches/transforms-2/files-2.1/c216976a87b9837ab7019c4fbdec1a16/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+59            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+59-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/mas/.gradle/caches/transforms-2/files-2.1/c216976a87b9837ab7019c4fbdec1a16/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+60            android:value="GlideModule" />
+60-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/mas/.gradle/caches/transforms-2/files-2.1/c216976a87b9837ab7019c4fbdec1a16/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+61    </application>
+62
+63</manifest>
