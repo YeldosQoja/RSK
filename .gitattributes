@@ -1,4 +1,7 @@
 *.pbxproj -text
-android/.gradle/6.7.1/executionHistory/executionHistory.bin filter=lfs diff=lfs merge=lfs -text
-android/app/build/intermediates/intermediary_bundle/debug/app-debug.aab filter=lfs diff=lfs merge=lfs -text
 android/app/build/intermediates/module_bundle/debug/base.zip filter=lfs diff=lfs merge=lfs -text
+android/app/build/intermediates/intermediary_bundle/debug/app-debug.aab filter=lfs diff=lfs merge=lfs -text
+android/app/build/outputs/bundle/debug/app-debug.aab filter=lfs diff=lfs merge=lfs -text
+android/.gradle/6.7.1/executionHistory/executionHistory.bin filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-9a3b979f72fe3d3dd438b0170988000fc16bb9ee.pack filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/79/31/7931440bfe5b3e8b87d916b76ea118115343898d059abd1ec09c2854af67eeba filter=lfs diff=lfs merge=lfs -text
