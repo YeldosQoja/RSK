@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:803f533b897ea8783582c4a944e426fc4187f11c130e6aed5ee80d8370bcab96
-size 328
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.rsk",
+  "variantName": "processReleaseResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 2,
+      "versionName": "1.2",
+      "outputFile": "app-release.apk"
+    }
+  ]
+}

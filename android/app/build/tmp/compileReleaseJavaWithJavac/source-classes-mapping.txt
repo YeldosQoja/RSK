@@ -1,9 +1,9 @@
 com/rsk/MainApplication.java
  com.rsk.MainApplication
  com.rsk.MainApplication$1
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
-com/rsk/BuildConfig.java
- com.rsk.BuildConfig
 com/rsk/MainActivity.java
  com.rsk.MainActivity
+com/rsk/BuildConfig.java
+ com.rsk.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
